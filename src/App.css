@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@900&display=swap");
+
+body {
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  min-height: 100vh;
+  width: 100vw;
+  background: url(../src/static/img/backforest.png) no-repeat center center
+    fixed;
+  background-size: cover;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  box-sizing: border-box;
+  height: 12vh;
+  width: 100vw;
+  padding: 0.5rem;
+  color: white;
+  background: rgb(0, 0, 0, 0.4);
+}
+
+.header .title-header {
+  font-family: "Roboto Slab", serif;
+}
+
+.header .score-game {
+  font-family: "Roboto Slab", serif;
+  align-items: center;
+}
+
+.grid-cards {
+  box-sizing: border-box;
+  display: flex;
+  display: grid;
+  max-height: 88vh;
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: repeat(auto-fit, 1fr);
+  padding: 1rem;
+  padding-top: 2rem;
+  gap: 3rem;
+}
+
+.grid-cards .card {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  height: 30vh;
+  width: 12vw;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  align-items: center;
+  color: white;
+  padding: 0.5rem;
+  box-shadow: 1px 1px 21px 4px rgba(34, 204, 82, 0.73);
+  -webkit-box-shadow: 1px 1px 21px 4px rgba(34, 204, 82, 0.73);
+  -moz-box-shadow: 1px 1px 21px 4px rgba(34, 204, 82, 0.73);
+}
+
+.grid-cards .card:hover {
+  box-shadow: 1px 1px 21px 9px rgba(34, 204, 82, 0.73);
+  -webkit-box-shadow: 1px 1px 21px 9px rgba(34, 204, 82, 0.73);
+  -moz-box-shadow: 1px 1px 21px 9px rgba(34, 204, 82, 0.73);
+}
+
+.card-wrapper {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card .container-picture {
+  height: 80%;
+  width: 85%;
+  border-radius: 10px;
+  background: rgba(122, 120, 120, 0.253);
+}
+
+.card .picture-card {
+  height: 100%;
+  width: 100%;
+}
+
+.card span {
+  background: rgba(122, 120, 120, 0.253);
+}
