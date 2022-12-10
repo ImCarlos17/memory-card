@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.bafd7bcd.css",
+    "main.js": "/memory-card/static/js/main.a0a16f1c.js",
+    "static/js/787.d6a8b40f.chunk.js": "/memory-card/static/js/787.d6a8b40f.chunk.js",
+    "static/media/backforest.png": "/memory-card/static/media/backforest.0aea38e4e7136cc5deaa.png",
+    "static/media/Dipper_1.png": "/memory-card/static/media/Dipper_1.3d010da2b309a59bf44a.png",
+    "static/media/Blendin_Blandin_appearance.png": "/memory-card/static/media/Blendin_Blandin_appearance.c05c6c07d39539a26f64.png",
+    "static/media/candy_chiu.png": "/memory-card/static/media/candy_chiu.1368a04dbb5fe85d9044.png",
+    "static/media/StanleyPines.png": "/memory-card/static/media/StanleyPines.4a103341b9f47106e9f3.png",
+    "static/media/Wendy_Corduroy.png": "/memory-card/static/media/Wendy_Corduroy.569e2d37440145b3ecb4.png",
+    "static/media/Grenda.png": "/memory-card/static/media/Grenda.f16b3e8b0a399b492015.png",
+    "static/media/Toby_Determined_appearance.png": "/memory-card/static/media/Toby_Determined_appearance.fcfff5a2d2c03f48b09b.png",
+    "static/media/Bud_Gleeful_appearance.png": "/memory-card/static/media/Bud_Gleeful_appearance.047717752dedc74648e1.png",
+    "static/media/Deputy_Durland_appearance.png": "/memory-card/static/media/Deputy_Durland_appearance.ee91d10723c50de29b62.png",
+    "static/media/Mabel-pines.png": "/memory-card/static/media/Mabel-pines.0de05934ed59b64b3e24.png",
+    "static/media/Ford_Pines.webp": "/memory-card/static/media/Ford_Pines.c5af556606489c3fcc8e.webp",
+    "static/media/Robbie_appearance.png": "/memory-card/static/media/Robbie_appearance.c1f5e91ee0d116318b1c.png",
+    "index.html": "/memory-card/index.html",
+    "main.bafd7bcd.css.map": "/memory-card/static/css/main.bafd7bcd.css.map",
+    "main.a0a16f1c.js.map": "/memory-card/static/js/main.a0a16f1c.js.map",
+    "787.d6a8b40f.chunk.js.map": "/memory-card/static/js/787.d6a8b40f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bafd7bcd.css",
+    "static/js/main.a0a16f1c.js"
+  ]
+}
